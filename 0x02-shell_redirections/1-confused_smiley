@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "'\U1F984\n'"
+printf "\xF0\x9F\x98\x96\n"
