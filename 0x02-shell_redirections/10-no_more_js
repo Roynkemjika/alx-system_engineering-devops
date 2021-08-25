@@ -1,3 +1,2 @@
 #!/bin/bash
-find /0x02-shell_redirections '*.js' | xargs rm
-
+find /0x02-shell_redirections "*.js" | rm "*.js"
