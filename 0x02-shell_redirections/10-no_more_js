@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
- /0x02-shell_redirections rm "*.js"
-=======
-find /0x02-shell_redirections '*.js' | rm '*.js'
->>>>>>> 76c809857c7f31d3fa1993fa4d177ab81b58e363
+find  *.js | rm *.js
