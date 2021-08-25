@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "\xF0\x9F\x98\x95"
+printf "\xF0\x9F\x98\x95\n"
