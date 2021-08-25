@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-#head -1 iacta
-head -3 iacta | tail -1 | cut -d ':' -f 2 
-=======
-head -3 iacta
->>>>>>> fae223c454e7495b547ac8fa696f687185a843f9
+head -3 iacta | tail -1
